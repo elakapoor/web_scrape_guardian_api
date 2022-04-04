@@ -60,7 +60,7 @@ Project uses:
 To run this project, download it and run python filename.py from the same directory
 
 ```
-$ cd ../automate_alert
+$ cd ../CaseStudy
 $ python filename.py
 
 ```
